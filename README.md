@@ -1,4 +1,4 @@
-# Getting and Cleaning Data
+# Getting and Cleaning Data Project
 
 The course project for the Getting and Cleaning Data Coursera course.
 The project includes script 'run_analysis.R'
